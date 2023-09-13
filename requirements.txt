@@ -1,3 +1,0 @@
-# requiremens.txt
-snowflake-connector-phyton
-
